@@ -1,2 +1,2 @@
-# hack4impact
-JDT meetings
+# Hack4impact
+Source code for hack4impact meetings. 
